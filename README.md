@@ -17,10 +17,14 @@ It demonstrates the complete analytics workflow using **SQL for analysis** and *
 ## 📂 Project Structure
 ---
 
-UPI-Transaction-Analytics-Project/ │ ├── Data/ │   └── UPI_Transactions_Dataset.csv │ ├── SQL/ │   ├── data_cleaning.sql │   ├── kpi_calculations.sql │   ├── yoy_growth.sql │   └── quarterly_analysis.sql │ ├── POWER BI/ │   ├── Project 1.pbix │   └── Dashboard-Screenshot.png │ └── README.md
+UPI-Transaction-Analytics-Project/ │ 
+├── Data/ │   └── UPI_Transactions_Dataset.csv │ 
+├── SQL/ │   ├── data_cleaning.sql │   ├── kpi_calculations.sql │   ├── yoy_growth.sql │   └── quarterly_analysis.sql │
+├── POWER BI/ │   ├── Project 1.pbix │   └── Dashboard-Screenshot.png │
+└── README.md
 
 
-## 📈 Key Analysis Performed
+## 📈 Key Analyses Performed
 - Year-on-Year (YoY) growth analysis  
 - Month-on-Month (MoM) growth trend analysis  
 - Quarterly contribution analysis  
